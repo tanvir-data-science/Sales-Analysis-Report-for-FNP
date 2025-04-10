@@ -3,7 +3,7 @@
 ## Project Overview
 
 This project focuses on analyzing sales data for **FNP (Floral & Gift Shop)**, a popular gift and flower shop in India. The goal is to analyze the performance of products, track revenue by occasion, and provide insights into customer spending behavior. The analysis leverages data from multiple sources, including order details, customer data, and product information. The insights from this project can help FNP improve sales strategies and optimize their marketing campaigns).
-![fnp-sales-dashboard](https://github.com/tanvirfau/Sales-Analysis-Report-for-FNP/blob/main/fnp-sales-dashboard.png
+![fnp-sales-dashboard](https://github.com/tanvirfau/Sales-Analysis-Report-for-FNP/blob/main/fnp-sales-dashboard.png).
 ## Data Sources
 
 The project uses the following datasets:
@@ -65,4 +65,18 @@ The project uses the following datasets:
 8. **Top 5 Cities by Order Volume**:
    - **Imphal**, **Dhanbad**, **Kavali**, **Haridwar**, and **Bidhannagar** were the leading cities in terms of order volume.
    - These regions can be targeted for localized marketing and delivery optimization.
+   - 
+## Conclusion and Recommendations:
+
+Based on the findings, here are some recommendations:
+
+- **Leverage Peak Days for Promotions**: Since Tuesday and Sunday see the highest order volumes, FNP should consider running exclusive discounts or promotions on these days to boost sales further.
+
+- **Target Underperforming Categories**: Product categories like Sweets and Plants could be promoted more actively through online campaigns, seasonal sales, or bundle offers.
+
+- **Expand Marketing to Both Genders**: With a balanced customer base, FNP should focus on gender-specific marketing strategies to cater to both male and female customers, driving engagement and conversion.
+
+- **Increase Late-Night Engagement**: Given the decline in sales post-18:00, FNP could introduce late-night flash sales or targeted offers to stimulate more purchases during these hours.
+
+- **Focus on High-Performing Cities**: Since cities like Imphal and Dhanbad show strong order volume, FNP could enhance its reach in these areas with localized promotions, delivery discounts, or exclusive regional products.
 

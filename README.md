@@ -12,6 +12,20 @@ The project uses the following datasets:
 - **orders.csv**: Contains order-specific information, including order ID, product ID, quantity, delivery date, etc.
 - **products.csv**: Contains information about products including name, category, and price.
 
+  ## Key Business Questions and Insights
+
+1. **Total Revenue**: ₹3,520,984.00 from 1,000 orders.
+2. **Average Order and Delivery Time**: Average delivery time is 6 days.
+3. **Monthly Sales Performance**: Sales fluctuate, with March and July showing peaks.
+4. **Top Products by Revenue**: Magnum Set, Quia Gift, Dolores Gift are top performers.
+5. **Customer Spending Analysis**: Average spending per person is ₹3,520.98.
+6. **Sales Performance by Top 5 Products**: Key products for further promotion.
+7. **Top 10 Cities by Orders**: Focus on cities like Imphal, Dhanbad, and Haridwar for marketing.
+8. **Order Quantity vs. Delivery Time**: No significant correlation.
+9. **Revenue Comparison Between Occasions**: Highest revenue from Anniversary and Raksha Bandhan.
+10. **Product Popularity by Occasion**: Tailor marketing based on occasion-specific trends.
+
+
 ## Tools Used
 
 - **Microsoft Excel** for data cleaning, analysis, and dashboard creation using **Power Query**.
@@ -19,7 +33,8 @@ The project uses the following datasets:
 - **Pivot Tables** and **Charts** to create interactive visualizations and insights.
 
 ## Key Insights from the Analysis
-
+  The correlation between **order quantity** and **delivery time** is **weak** (0.003478), suggesting that the quantity of orders does not significantly affect the delivery times. This implies that the logistics system is efficient, regardless of the volume of orders placed.
+  
 1. **Total Revenue and Order Volume**: 
    - Total Revenue generated from 1,000 orders: ₹3,520,984.00.
    - This indicates healthy order volume and steady sales performance across product categories.

@@ -25,7 +25,6 @@ The project uses the following datasets:
 9. **Revenue Comparison Between Occasions**: Highest revenue from Anniversary and Raksha Bandhan.
 10. **Product Popularity by Occasion**: Tailor marketing based on occasion-specific trends.
 
-
 ## Tools Used
 
 - **Microsoft Excel** for data cleaning, analysis, and dashboard creation using **Power Query**.
@@ -33,7 +32,7 @@ The project uses the following datasets:
 - **Pivot Tables** and **Charts** to create interactive visualizations and insights.
 
 ## Key Insights from the Analysis
-  The correlation between **order quantity** and **delivery time** is **weak** (0.003478), suggesting that the quantity of orders does not significantly affect the delivery times. This implies that the logistics system is efficient, regardless of the volume of orders placed.
+- The correlation between **order quantity** and **delivery time** is **weak** (0.003478), suggesting that the quantity of orders does not significantly affect the delivery times. This implies that the logistics system is efficient, regardless of the volume of orders placed.
   
 1. **Total Revenue and Order Volume**: 
    - Total Revenue generated from 1,000 orders: ₹3,520,984.00.
@@ -67,9 +66,3 @@ The project uses the following datasets:
    - **Imphal**, **Dhanbad**, **Kavali**, **Haridwar**, and **Bidhannagar** were the leading cities in terms of order volume.
    - These regions can be targeted for localized marketing and delivery optimization.
 
-## Project Structure
-
-- **fnp-data/**: Contains the CSV files for customers, orders, and products.
-- **fnp-sales-dashboard.png**: The final sales analysis dashboard created with Excel.
-- **fnp-sales-data-analysis.xlsx**: The Excel file with raw data and analysis.
-- **fnp-sales-report.pdf**: A detailed report of the sales analysis insights.

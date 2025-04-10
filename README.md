@@ -3,7 +3,8 @@
 ## Project Overview
 
 This project focuses on analyzing sales data for **FNP (Floral & Gift Shop)**, a popular gift and flower shop in India. The goal is to analyze the performance of products, track revenue by occasion, and provide insights into customer spending behavior. The analysis leverages data from multiple sources, including order details, customer data, and product information. The insights from this project can help FNP improve sales strategies and optimize their marketing campaigns).
-![fnp-sales-dashboard](https://github.com/tanvirfau/Sales-Analysis-Report-for-FNP/blob/main/fnp-sales-dashboard.png).
+
+![fnp-sales-dashboard](https://github.com/tanvirfau/Sales-Analysis-Report-for-FNP/blob/main/fnp-sales-dashboard.png)
 
 ## Data Sources
 

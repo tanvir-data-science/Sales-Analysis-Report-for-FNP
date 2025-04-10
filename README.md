@@ -2,8 +2,8 @@
 
 ## Project Overview
 
-This project focuses on analyzing sales data for **FNP (Floral & Gift Shop)**, a popular gift and flower shop in India. The goal is to analyze the performance of products, track revenue by occasion, and provide insights into customer spending behavior. The analysis leverages data from multiple sources, including order details, customer data, and product information. The insights from this project can help FNP improve sales strategies and optimize their marketing campaigns.
-
+This project focuses on analyzing sales data for **FNP (Floral & Gift Shop)**, a popular gift and flower shop in India. The goal is to analyze the performance of products, track revenue by occasion, and provide insights into customer spending behavior. The analysis leverages data from multiple sources, including order details, customer data, and product information. The insights from this project can help FNP improve sales strategies and optimize their marketing campaigns).
+!<fnp-sales-dashboard>(https://github.com/tanvirfau/Sales-Analysis-Report-for-FNP/blob/main/fnp-sales-dashboard.png
 ## Data Sources
 
 The project uses the following datasets:
@@ -11,8 +11,8 @@ The project uses the following datasets:
 - **customers.csv**: Contains customer information such as gender, location, and other demographic details.
 - **orders.csv**: Contains order-specific information, including order ID, product ID, quantity, delivery date, etc.
 - **products.csv**: Contains information about products including name, category, and price.
-
-  ## Key Business Questions and Insights
+  
+## Key Business Questions and Insights
 
 1. **Total Revenue**: ₹3,520,984.00 from 1,000 orders.
 2. **Average Order and Delivery Time**: Average delivery time is 6 days.
